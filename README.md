@@ -18,3 +18,6 @@
  - 내게 맞는 운동인지를 모르겠음
  - 객관적인 시선으로 지도해 줄 사람이 없음
  - PT 비용의 부담
+
+## Journey Map
+<img width="724" height="315" alt="image" src="https://github.com/user-attachments/assets/49079cdb-c4b4-4dbc-98a1-8e658fff10cc" />
