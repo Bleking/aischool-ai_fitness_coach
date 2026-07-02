@@ -90,3 +90,6 @@
 
 ## Journey Map
 <img width="724" height="315" alt="image" src="https://github.com/user-attachments/assets/49079cdb-c4b4-4dbc-98a1-8e658fff10cc" />
+
+- 인사이트: 사용자가 운동을 그만두는 진짜 이유는 게을러서가 아니라 "내가 맞게 하는지 몰라서 불안하기" 때문이다. 이 감정 곡선이 문제 정의의 핵심 근거.
+- 범위 메모  저니맵의 '기회' 중 실시간 자세 알림·루틴 추천은 향후(Could)로 두고, MVP는 업로드 분석 기반의 자세 점수·교정 리포트·기록·챗봇으로 대응한다.
